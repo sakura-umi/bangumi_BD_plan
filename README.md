@@ -14,7 +14,7 @@
 
 # 以下正文
 #### 注：如果有"系列"类资源，排名默认为系列中最高的那一个，并且名称后面会标注排名
-排名|名称|简介|BD资源大小|BD链接|压制版链接
+bangumi排名|名称|简介|BD资源大小|BD链接|压制版链接
 :--:|:--:|:--:|:--:|:--:|:--:
 1|**星际牛仔**|[星际牛仔](https://bangumi.tv/subject/253)|星际牛仔-224G|[星际牛仔](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/colclough_1ove_club/EloteDS9d61FjxybKx1i_6IB9Q4Hmt32Bvs-e-RAycbkHQ?e=Du5btQ)|[星际牛仔](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/lihen_1ove_club/ElHNh-JT-4JPm02TkDGqkNwBL0uQrhJD5-ZLJ0Ccn39IuQ?e=PohoNl)
 4|**Clannad After Story**|[Clannad After Story](https://bangumi.tv/subject/876)|Clannad After Story-202G|[Clannad After Story](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/colclough_1ove_club/EvUzw87Evj5PjQEwa_rA9aMBdQ_MsknLvZEjeiNuN-rdHQ?e=HvHlh7)|[Clannad After Story](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/lihen_1ove_club/ErvobgS6_d9Elt3ZR5rJYz0BWQuF64UACyJXLZJ26CV3_g?e=yQpAt8)
