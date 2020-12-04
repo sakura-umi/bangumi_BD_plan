@@ -14,8 +14,10 @@
 
 # 以下正文
 #### 注：如果有"系列"类资源，排名默认为系列中最高的那一个，并且名称后面会标注排名
+/*
 bangumi排名|名称|简介|BD资源大小|BD链接|压制版链接
 :--:|:--:|:--:|:--:|:--:|:--:
+
 1|**星际牛仔**|[星际牛仔](https://bangumi.tv/subject/253)|星际牛仔-224G|[星际牛仔](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/colclough_1ove_club/EloteDS9d61FjxybKx1i_6IB9Q4Hmt32Bvs-e-RAycbkHQ?e=Du5btQ)|[星际牛仔](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/lihen_1ove_club/ElHNh-JT-4JPm02TkDGqkNwBL0uQrhJD5-ZLJ0Ccn39IuQ?e=PohoNl)
 4|**Clannad After Story**|[Clannad After Story](https://bangumi.tv/subject/876)|Clannad After Story-202G|[Clannad After Story](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/colclough_1ove_club/EvUzw87Evj5PjQEwa_rA9aMBdQ_MsknLvZEjeiNuN-rdHQ?e=HvHlh7)|[Clannad After Story](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/lihen_1ove_club/ErvobgS6_d9Elt3ZR5rJYz0BWQuF64UACyJXLZJ26CV3_g?e=yQpAt8)
 21|**命运石之门**|[命运石之门](https://bangumi.tv/subject/3154)<br>[命运石之门 零](https://bangumi.tv/subject/129807)|命运石之门-247G|[命运石之门](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/colclough_1ove_club/Et1Kl7Cfd8NHk72CirXgPh8BUSh3ScmC_NJQ0qSkOAMaqA?e=VYfLYc)<br>[命运石之门 零]()|[命运石之门](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/lihen_1ove_club/EmaGk2RjPdBArp-yQszcMIsB6O0UW64t084jMI9Ex3-Yxg?)<br>[命运石之门 零](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/lihen_1ove_club/EnaSctpPhA9Jm6c10O2RapUBKTe1YitIR5X_rrdDzKnmlA?e=QMRUvi)
@@ -27,3 +29,4 @@ bangumi排名|名称|简介|BD资源大小|BD链接|压制版链接
 80|**物语系列**|[化物语](https://bangumi.tv/subject/1671)<br>[伪物语](https://bangumi.tv/subject/23161)<br>[物语系列第二季](https://bangumi.tv/subject/68812)|化物语-106.3G<br>伪物语-101G<br>物语系列第二季-282G|[化物语](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/colclough_1ove_club/Ep3Xp92JI-lHpFIi24WTMJEBh92kuJZf2BmtbbG4_goOxQ?e=kxKuBg)<br>[伪物语](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/colclough_1ove_club/EkxfKJ4jKDlEuqvtYqH8B3EBTXOsNEaU0nOdAW6-uVm5_g?e=HMDAYK)<br>[物语系列第二季](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/colclough_1ove_club/EqRiEmRVPgJBj_qszFjpmFYBl6jM_IL4wPzrdWo3225NAQ?e=Uh1K5I)|[物语系列合集](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/lihen_1ove_club/EhulBJIY4JxCkQaxRrX9jJABmRM2QNcEq4L0wqjyzV5jJg?e=PPZcNz)
 **以**|**下**|**是**|**私**|**货**|-
 543|**路人女主的养成方法 fine**|[路人女主的养成方法 fine](https://bangumi.tv/subject/231497)|路人女主的养成方法 fine-46.3G|[路人女主的养成方法 fine](https://xzgfwacnz0-my.sharepoint.com/:f:/g/personal/colclough_1ove_club/EtXMxm64g5RAsuDDgj76cdsBWIoILUg2VgTv_sjrEK5JCQ?e=DArnOH)|-
+*/
